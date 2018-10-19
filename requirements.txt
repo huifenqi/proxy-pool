@@ -1,0 +1,4 @@
+requests
+flask
+redis
+pytest==2.9.2
